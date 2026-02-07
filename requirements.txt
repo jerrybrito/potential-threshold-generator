@@ -1,0 +1,2 @@
+# Requires: unlikely-latency
+# (Not available on PyPI)
